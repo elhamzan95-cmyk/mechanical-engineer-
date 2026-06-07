@@ -4,6 +4,4 @@ files
 Technical draft
 Commercial Information Required
 Technical Specification
-SEW catalog
-BS4825 Hygienic Pipe Dimensions
-ANSI B36.19 Stainless Steel Pipe Dimensions
+
